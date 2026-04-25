@@ -1,0 +1,34 @@
+# Generated outputs
+code/rulelist/results/
+code/rulelist/data/
+code/rulelist/__pycache__/
+results/
+__pycache__/
+*.pyc
+
+# Private project infrastructure
+.claude/
+_ai_log.md
+_ai_log_archive.md
+_feeders/
+_feeders.json
+_handover.html
+_handover.json
+_session_draft.md
+AGENTS.md
+notes/
+log_window_claude.txt
+
+# Manuscript (lives on Overleaf)
+Overleaf_source/
+Overleaf_source_localdraft_*/
+
+# Literature PDFs
+Literature/
+
+# JVM crash logs
+hs_err_pid*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
